@@ -20,7 +20,7 @@ You drive through a futuristic neon highway, avoiding traffic, collecting crysta
 - P → Pause
 
 ## 🚀 Play the Game
-(you will put your link here after step 3)
+(https://github.com/elargantiny16/skyline-drift-neon-overdrive.git)
 
 ## 🧠 Built for
 Hack Club: The Game (HCTG)
