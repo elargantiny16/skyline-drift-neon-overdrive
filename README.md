@@ -27,4 +27,4 @@ Hack Club: The Game (HCTG)
 
 ---
 
-Made by Felo Philip
+Made by Philopateer Philip
